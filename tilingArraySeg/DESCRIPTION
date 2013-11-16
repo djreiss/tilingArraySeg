@@ -1,0 +1,10 @@
+Package: tilingArraySeg
+Type: Package
+Title: What the package does (short line)
+Version: 0.0.5
+Date: 2013-11-15
+Author: David J Reiss, Institute for Systems Biology
+Maintainer: David J Reiss <dreiss@systemsbiology.org>
+Description: More about what it does (maybe more than one line)
+License: GPL-2
+Depends: multicore, tree, mvpart 
