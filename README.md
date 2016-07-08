@@ -10,5 +10,5 @@ Install the packages and its dependencies, using the devtools package, by typing
    ```
    install.packages( 'devtools', dep=T )
    library( devtools )
-   install_github( 'tilingArraySeg', 'dreiss-isb', subdir='tilingArraySeg' )
+   install_github( 'tilingArraySeg', 'djreiss', subdir='tilingArraySeg' )
    ```

@@ -6,7 +6,7 @@ VERSION <-
 function( libname, pkgname ) { ##.onAttach
     cat( "Loading ", pkgname, " version ", VERSION, " (", DATE, ")\n", sep="" )
     cat( "Copyright (C) David J Reiss, Institute for Systems Biology.\n" )
-    cat( "Please email dreiss@systemsbiology.org if you run into any issues.\n" )
+    cat( "Please email dreiss.isb@gmail.com.org if you run into any issues.\n" )
   }
 `%betw%` <-
 function (a, b) 
